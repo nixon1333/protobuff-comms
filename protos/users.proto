@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+message User {
+  int32 id = 1;
+  string name = 2;
+  string phone = 3;
+}
+
+message UsersList {
+  repeated User users = 1;
+}
+
+message UserSearchParams {
+  string name = 1;
+}
