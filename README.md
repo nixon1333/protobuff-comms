@@ -38,8 +38,8 @@ To run library file run from root directory following command
 - go to python project directory `cd python-service`
 - setup virtual environment `virtualenv venv` (first time only)
 - source it `source venv/bin/activate`
-- install requirements `pip install -r requirements.txt`
-- to run the basic flask app run `export FLASK_APP=main.py` and `python -m flask run`
+- install requirements `pip install -r requirements.txt` (first time only)
+- to run the basic flask app run `export FLASK_APP=main.py && python -m flask run`
 
 Boom! Server is running in `http://127.0.0.1:5000/` :) 
 
