@@ -50,6 +50,6 @@ Boom! Server is running in `http://127.0.0.1:5000/` :)
 Yeahhh! Client is now calling `http://127.0.0.1:5000/` to posting proto file, reading proto  :) 
 
 # Contact
-Ashraful Islam Nixon - @nixon1333 - nixon613@gmail.com
+Ashraful Islam Nixon - @nixon1333
 
 Project Link: https://github.com/nixon1333/protobuff-comms
